@@ -76,7 +76,7 @@
 				"stac_extensions": {
 					"type": "array",
 					"contains": {
-						"const": "https://stac-extensions.github.io/ssys/v1.1.0/schema.json"
+						"const": "https://raw.githubusercontent.com/J-Christophe/extssys/refs/heads/main/schema2.json"
 					}
 				}
 			}
