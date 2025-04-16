@@ -41,7 +41,8 @@
     },
     "start_datetime": "2005-02-14T13:51:34.106000Z",
     "end_datetime": "2005-02-14T13:59:08.343000Z",
-    "datetime": "2005-02-14T13:55:21.224500Z"
+    "datetime": "2005-02-14T13:55:21.224500Z",
+    "myext:new_property":"toto"
   },
   "geometry": {
     "type": "Polygon",
@@ -524,7 +525,6 @@
     180.0,
     85.64598742333256
   ],
-  "myext:new_property":"toto",
   "stac_extensions": [
     "https://stac-extensions.github.io/processing/v1.1.0/schema.json",
     "https://raw.githubusercontent.com/J-Christophe/extssys/refs/heads/main/schema.json",
