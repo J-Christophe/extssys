@@ -1,0 +1,533 @@
+{
+  "type": "Feature",
+  "stac_version": "1.0.0",
+  "id": "1487081877_1-ti",
+  "properties": {
+    "license": "CC-BY-4.0",
+    "acknowledgment": "NASA/Caltech-JPL/University of Arizona/Osuna-LPG",
+    "mission": "CASSINI",
+    "instruments": [
+      "VIMS-IR"
+    ],
+    "channel": "IR",
+    "cube_name": "1487081877_1",
+    "acquisition_duration_(s)": 454.0,
+    "exposure_time_(ms)": 163.0,
+    "sampling_mode": "NORMAL",
+    "samples": 64,
+    "lines": 42,
+    "bands": 256,
+    "target": "Titan",
+    "ground": true,
+    "limb": true,
+    "distance_(km)": 3790.0,
+    "phase_(°)": 20.0,
+    "ground_min_incidence_(°)": 2.0,
+    "ground_max_incidence_(°)": 105.0,
+    "ground_min_emergence_(°)": 2.0,
+    "ground_max_emergence_(°)": 88.0,
+    "ground_min_resolution_(km&sol;pix)": 172.0,
+    "ground_max_resolution_(km&sol;pix)": 5879.0,
+    "sub_spacecraft_longitude_(°E)": -139.9,
+    "sub_spacecraft_latitude_(°N)": -22.5,
+    "sub_solar_longitude_(°E)": -139.9,
+    "sub_solar_latitude_(°N)": -22.5,
+    "ssys:targets": [
+      "TITAN"
+    ],
+    "processing:level": "Calibrated",
+    "processing:software": {
+      "USGS-ISIS": "3.5.2.0"
+    },
+    "start_datetime": "2005-02-14T13:51:34.106000Z",
+    "end_datetime": "2005-02-14T13:59:08.343000Z",
+    "datetime": "2005-02-14T13:55:21.224500Z"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          122.1596253129394,
+          -51.31499561479869
+        ],
+        [
+          123.45929884365933,
+          -33.37592244998351
+        ],
+        [
+          126.39156088838098,
+          15.885530362369279
+        ],
+        [
+          128.06211977428234,
+          35.36684437756527
+        ],
+        [
+          129.29965028912034,
+          44.82195451797518
+        ],
+        [
+          130.63465493970205,
+          51.94560911617979
+        ],
+        [
+          132.06514099875483,
+          57.33855832465425
+        ],
+        [
+          134.9788237690169,
+          65.6526614727321
+        ],
+        [
+          136.81892415935226,
+          69.3357487193022
+        ],
+        [
+          138.57520644394418,
+          71.91800056501604
+        ],
+        [
+          139.6973244733383,
+          73.25388888941386
+        ],
+        [
+          142.78364345586044,
+          76.05252144113507
+        ],
+        [
+          144.83266518065614,
+          77.42527605946692
+        ],
+        [
+          147.56216055529558,
+          78.86709296892691
+        ],
+        [
+          151.14911849942,
+          80.29598861886305
+        ],
+        [
+          155.75686603025804,
+          81.62763257505307
+        ],
+        [
+          162.2864927004914,
+          82.92363163525792
+        ],
+        [
+          180.0,
+          85.15587270229031
+        ],
+        [
+          180.0,
+          -90.0
+        ],
+        [
+          -180.0,
+          -90.0
+        ],
+        [
+          -180.0,
+          85.15587270229031
+        ],
+        [
+          -172.28645943532698,
+          85.16650883407281
+        ],
+        [
+          -154.19405637362868,
+          85.64598742333256
+        ],
+        [
+          -132.34680909480755,
+          85.59168431389409
+        ],
+        [
+          -112.59427852540828,
+          84.90208811722927
+        ],
+        [
+          -98.69034926268024,
+          83.76590920164108
+        ],
+        [
+          -90.25345728306064,
+          82.53906592026878
+        ],
+        [
+          -83.88127945000454,
+          81.0839111709415
+        ],
+        [
+          -79.16007269984009,
+          79.47823986411547
+        ],
+        [
+          -75.71357787576221,
+          77.82643973090491
+        ],
+        [
+          -73.45141956985374,
+          76.40226584701084
+        ],
+        [
+          -71.34064203552367,
+          74.711005421379
+        ],
+        [
+          -69.65485988628731,
+          73.0103285832246
+        ],
+        [
+          -68.27887566447832,
+          71.30424939306262
+        ],
+        [
+          -66.33694083854606,
+          68.19986212941622
+        ],
+        [
+          -64.80993278955964,
+          64.90905334518958
+        ],
+        [
+          -63.72938454144703,
+          61.91787127569653
+        ],
+        [
+          -62.84729080808057,
+          58.89445760026066
+        ],
+        [
+          -61.00444316911371,
+          51.23623415450849
+        ],
+        [
+          -59.28036375008014,
+          41.14369497157687
+        ],
+        [
+          -58.09111212153749,
+          30.64426129245963
+        ],
+        [
+          -57.16988069368503,
+          19.637373583035835
+        ],
+        [
+          -53.654201956052674,
+          -38.066780629998846
+        ],
+        [
+          -52.308042040564345,
+          -55.45368433511424
+        ],
+        [
+          -51.80644416238448,
+          -59.300446297243795
+        ],
+        [
+          -51.002438276498566,
+          -63.03980654438801
+        ],
+        [
+          -49.92056736872058,
+          -67.04677327715126
+        ],
+        [
+          -48.94597102610825,
+          -69.85471123873191
+        ],
+        [
+          -47.461469260415925,
+          -73.0977082911291
+        ],
+        [
+          -45.41297964259775,
+          -76.22435958991457
+        ],
+        [
+          -43.811565546131106,
+          -77.98408193744419
+        ],
+        [
+          -41.62454860167398,
+          -79.77301717107724
+        ],
+        [
+          -38.726041167549226,
+          -81.45149562911227
+        ],
+        [
+          -34.48547356230213,
+          -83.08911300290832
+        ],
+        [
+          -26.62844398911787,
+          -84.85228497112068
+        ],
+        [
+          -11.274383648032227,
+          -86.43107704636269
+        ],
+        [
+          19.067346873848294,
+          -87.41857166846798
+        ],
+        [
+          59.07663490595729,
+          -87.26755239969302
+        ],
+        [
+          86.49818948051762,
+          -85.97845786229239
+        ],
+        [
+          99.24180650779613,
+          -84.22660144023394
+        ],
+        [
+          105.53656723726692,
+          -82.4715046832749
+        ],
+        [
+          109.53462651761367,
+          -80.60679494844774
+        ],
+        [
+          112.27170784977267,
+          -78.66418474413088
+        ],
+        [
+          114.24379477620118,
+          -76.6815954840009
+        ],
+        [
+          115.61652936831427,
+          -74.85556238082741
+        ],
+        [
+          116.77205874264848,
+          -72.88790985041187
+        ],
+        [
+          117.69977303612785,
+          -70.92111137394275
+        ],
+        [
+          119.56529779837166,
+          -65.39874010882049
+        ],
+        [
+          121.0932099890482,
+          -58.355780315141665
+        ],
+        [
+          122.1596253129394,
+          -51.31499561479869
+        ]
+      ]
+    ]
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "../../../catalog.json",
+      "type": "application/json",
+      "title": "Cassini VIMS-IR STAC catalog"
+    },
+    {
+      "rel": "collection",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "003TI / T3"
+    },
+    {
+      "rel": "parent",
+      "href": "../collection.json",
+      "type": "application/json",
+      "title": "003TI / T3"
+    }
+  ],
+  "assets": {
+    "1487081877_1-ti-preview-ortho": {
+      "href": "https://vims.univ-nantes.fr/data/previews/ortho/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "Orthographic preview",
+      "file:size": 23199,
+      "file:checksum": "1220a7ee6dfa4932f1606eec2a62aa85b133da89360cbc440692a3a4806472bb035a",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-equi": {
+      "href": "https://vims.univ-nantes.fr/data/previews/equi/003TI/1487081877_1.png",
+      "type": "image/png",
+      "title": "Equirectangular preview",
+      "file:size": 96131,
+      "file:checksum": "1220fc862fe4bb3d03941f1ff9f0c72e65c83734ba58f775831ebfca8bac14af2ca6",
+      "roles": [
+        "image"
+      ]
+    },
+    "1487081877_1-ti-isis-cub": {
+      "href": "https://vims.univ-nantes.fr/cube/003TI/C1487081877_1_ir.cub",
+      "type": "application/octet-stream",
+      "title": "ISIS calibrated IR cube",
+      "file:size": 3041875,
+      "file:checksum": "12206d9a5fc447e4f09c1fc9a8807f48906cb92c4369f99cb52f399a0c50d961fe6e",
+      "roles": [
+        "data"
+      ]
+    },
+    "1487081877_1-ti-pds-qub": {
+      "href": "https://vims.univ-nantes.fr/qub/1487081877_1",
+      "type": "application/octet-stream",
+      "title": "PDS uncalibrated QUB",
+      "roles": [
+        "data"
+      ]
+    },
+    "1487081877_1-ti-pds-lbl": {
+      "href": "https://vims.univ-nantes.fr/lbl/1487081877_1",
+      "type": "text/plain",
+      "title": "PDS labels",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "1487081877_1-ti-preview-G_101": {
+      "href": "https://vims.univ-nantes.fr/data/previews/G_101/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "1.01 μm preview",
+      "file:size": 3563,
+      "file:checksum": "122040a4d97e7719399f1284e46703d3aca265a41f52c5891d06601f38eedc42ac2d",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-R_159_126": {
+      "href": "https://vims.univ-nantes.fr/data/previews/R_159_126/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "1.59/1.26 μm preview",
+      "file:size": 3208,
+      "file:checksum": "122099b598a54da053f19cb703473395094dcd04e3d6ed3f65d37bf16fe9686ba290",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-G_203": {
+      "href": "https://vims.univ-nantes.fr/data/previews/G_203/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "2.03 μm preview",
+      "file:size": 3676,
+      "file:checksum": "12208a7a8895768bd76a0d3dd2e7def3787deca4e97d38c1c99a5fe33580481fbfc7",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-RGB_203_158_279": {
+      "href": "https://vims.univ-nantes.fr/data/previews/RGB_203_158_279/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "2.03 | 1.58 | 2.79 μm preview",
+      "file:size": 5007,
+      "file:checksum": "12207976d682e0d0c9d5c2c73c0b8ef54d0d1c703c983f2a0b108d36acd65f8d0099",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-R_203_210": {
+      "href": "https://vims.univ-nantes.fr/data/previews/R_203_210/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "2.03/2.10 μm preview",
+      "file:size": 4276,
+      "file:checksum": "12204ab715663c54ceb62ea68d169717198996cb297bb4d26e8b2f0ec4a9d1a04134",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-G_212": {
+      "href": "https://vims.univ-nantes.fr/data/previews/G_212/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "2.12 μm preview",
+      "file:size": 3961,
+      "file:checksum": "1220dd97649ce64aabd3ebec07b3e1d036811a65b97f488573541ee2166338abf7ae",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-RGB_231_269_195": {
+      "href": "https://vims.univ-nantes.fr/data/previews/RGB_231_269_195/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "Surface / Troposphere / Stratosphere preview",
+      "file:size": 5251,
+      "file:checksum": "1220591dd1435f09fc5dd4802bacfe0b5c350e290f6606b4cd160219343686f4cb4d",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-RGB_277_327_332": {
+      "href": "https://vims.univ-nantes.fr/data/previews/RGB_277_327_332/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "2.77 | 3.27 | 3.32 μm preview",
+      "file:size": 8500,
+      "file:checksum": "12203a80220f46bb18339c0d18995877d25d1d8612dc9aa8f345bee248a770252c03",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-G_501": {
+      "href": "https://vims.univ-nantes.fr/data/previews/G_501/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "5 μm preview",
+      "file:size": 5227,
+      "file:checksum": "12209a692a7cbe5e8de8840463bc3f893fc3c436658fb4fb2b7c3403b6d34cb4ffb0",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-RGB_501_332_322": {
+      "href": "https://vims.univ-nantes.fr/data/previews/RGB_501_332_322/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "5 | 3.32 | 3.22 μm preview",
+      "file:size": 7677,
+      "file:checksum": "122097a1b55672f96c6bf802766a7f0ba8472c485ecdf401e84bcaf6d5c669db47e0",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-RGB_501_158_129": {
+      "href": "https://vims.univ-nantes.fr/data/previews/RGB_501_158_129/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "5 | 1.58 | 1.29 μm preview",
+      "file:size": 5295,
+      "file:checksum": "122000fe2bbaf5977658ba4640c0099a35d6d03fe57046124ea6cdce6477008684b2",
+      "roles": [
+        "thumbnail"
+      ]
+    },
+    "1487081877_1-ti-preview-RGB_501_275_203": {
+      "href": "https://vims.univ-nantes.fr/data/previews/RGB_501_275_203/003TI/1487081877_1.jpg",
+      "type": "image/jpeg",
+      "title": "5 | 2.75 | 2.03 μm preview",
+      "file:size": 5758,
+      "file:checksum": "1220fce5c0ea48291aba0f330258d5949f38723b6a2d1991cca6252dbd7a0a846a2a",
+      "roles": [
+        "thumbnail"
+      ]
+    }
+  },
+  "bbox": [
+    -180.0,
+    -90.0,
+    180.0,
+    85.64598742333256
+  ],
+  "stac_extensions": [
+    "https://stac-extensions.github.io/processing/v1.1.0/schema.json",
+    "https://raw.githubusercontent.com/J-Christophe/extssys/refs/heads/main/schema.json",
+    "https://stac-extensions.github.io/file/v2.0.0/schema.json"
+  ],
+  "collection": "003ti"
+}
