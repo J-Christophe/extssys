@@ -21,10 +21,10 @@
         }
       },
       "required": ["myext:new_property"],
-		  "patternProperties": {
-				"^(?!extssys:)": {}
-			},
-			"additionalProperties": false      
+      "patternProperties": {
+	    "^(?!extssys:)": {}
+       },
+       "additionalProperties": false      
     }
   ]
 }
