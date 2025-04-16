@@ -1,6 +1,6 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"$id": https://raw.githubusercontent.com/J-Christophe/extssys/refs/heads/main/schema2.json",
+	"$id": "https://raw.githubusercontent.com/J-Christophe/extssys/refs/heads/main/schema2.json",
 	"title": "SSYS Extension",
 	"description": "STAC Solar System Extension for STAC Items, Catalogs, or Collections.",
 	"oneOf": [
