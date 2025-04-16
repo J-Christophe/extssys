@@ -524,6 +524,7 @@
     180.0,
     85.64598742333256
   ],
+  "myext:new_property":"toto",
   "stac_extensions": [
     "https://stac-extensions.github.io/processing/v1.1.0/schema.json",
     "https://raw.githubusercontent.com/J-Christophe/extssys/refs/heads/main/schema.json",
